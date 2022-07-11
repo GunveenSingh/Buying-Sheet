@@ -1,0 +1,1 @@
+"C:\Program Files\Python37\python.exe" "P:\CatchOfTheDay\CatchProgramFiles.py" pause

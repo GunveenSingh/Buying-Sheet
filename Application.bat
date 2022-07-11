@@ -1,0 +1,1 @@
+"C:\Users\Administrator\AppData\Local\Programs\Python\Python37\python.exe" "P:\Gunveen\PDF arrange\BuyingSheet\PycharmBuyingSheet.py" pause
